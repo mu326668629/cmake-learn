@@ -1,0 +1,3 @@
+@PACKAGE_INIT@
+set(u_common_INCLUDE_DIR "@PACKAGE_INCLUDE_INSTALL_DIR@")
+set_and_check(u_common_LIBS "@PACKAGE_LIB_INSTALL_DIR@")
