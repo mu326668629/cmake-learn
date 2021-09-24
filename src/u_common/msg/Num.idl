@@ -1,0 +1,3 @@
+struct Num {
+    string name;
+};
